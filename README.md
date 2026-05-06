@@ -6,7 +6,7 @@ This project analyzes retail sales data to identify trends in regions, product c
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Charts (Bar, Pie, Line)
+- Charts (Bar, line)
 
 ## Key Analysis
 - Sales performance by region
@@ -21,4 +21,4 @@ This project analyzes retail sales data to identify trends in regions, product c
 
 ## Visuals
 (Add screenshot of your dashboard here)
-<img width="1897" height="1059" alt="Screenshot 2026-05-05 235546" src="https://github.com/user-attachments/assets/6a35edf6-f966-46a8-95ac-e16fb560a834" />
+<img width="1916" height="1079" alt="Screenshot 2026-05-06 123323" src="https://github.com/user-attachments/assets/f6fa0168-fdb7-4594-a7c6-021ea6ca8fdd" />
